@@ -1,8 +1,8 @@
 # EDGE-AVOIDING-BOT
-![]()
+![](https://github.com/Harshad141/Edge-avoiding-bot/blob/master/edge%20avoider.jpg)
 > This robot keeps away from any edge that comes in its course. basic fundamental bot utilizing two IR sensors for its working
 ## CIRCUIT DIAGRAM
-![]()
+![](https://github.com/Harshad141/Edge-avoiding-bot/blob/master/circuit.jpg)
 ## COMPONENTS USED
 ### Arduino Uno
 The Arduino Uno is a microcontroller board based on the ATmega328.It has 20 digital input/output pins (of which 6 can be used as PWM outputs and 6 can be used as analog inputs), a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming ICSP) header and a reset button.
